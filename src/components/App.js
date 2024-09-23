@@ -24,7 +24,7 @@ const App = () => {
     <div id="main">
       <div className="header">
         <h1>Blue whales</h1>
-        <button id="btn" onClick={handleClick}>
+        <button className="btn" onClick={handleClick}>
           Get User List
         </button>
       </div>

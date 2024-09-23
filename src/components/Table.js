@@ -29,7 +29,7 @@ const Table = ({ data }) => {
           ) : (
             <tr>
               <td colSpan="4" className="no-data">
-                <h3>No data found to display</h3>
+                <h3>No data found</h3>
               </td>
             </tr>
           )}

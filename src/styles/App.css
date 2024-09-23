@@ -17,7 +17,7 @@ html, body{
     height: 50px;
 }
 
-#btn{
+.btn{
     background-color: rgb(77, 153, 211);
     height: 35px;
     border: none;
